@@ -1,5 +1,5 @@
 # Passport-scanner-app
-Scanning passport by our app and getting info right away.
+Scanning passport by our app and getting info right away. This project is team work. 
 ### Using OCR
 We will use OCR to read the data from passports using scanners.
 
