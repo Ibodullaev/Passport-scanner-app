@@ -10,7 +10,7 @@ Obtained information will be utilised to fill templates.
 There are a lot of use cases where this application could be applied, but we will mainly target banking systems.
 
 We will use this technology to fill applications in the blanks to optimize waiting time for users and decrease inaccuracies that is done by human factors.
-### Advatntages
+### Advantages
 No more personal filling of the application.
 Communicate with Government personalization centre  (Davlat personallashtirish markazi) using passport ID to obtain further information like ITN (STIR), current address and others.
 Bank process optimization.
